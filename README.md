@@ -1,2 +1,17 @@
-# Math-program-
-A mathematical desktop tool developed in Python using Tkinter, featuring volume calculations for multiple 3D shapes and a complete quadratic inequality solver with bilingual support.
+
+# VectorMind
+
+VectorMind is a GUI-based Python application built with Tkinter.
+
+## Features
+- Volume calculation for 3D geometric shapes
+- Linear and quadratic inequality solver
+- Bilingual support (Persian / English)
+- Clean graphical interface
+
+## Requirements
+- Python 3.x
+- Tkinter (usually included with Python)
+
+## Run
+python VectorMind.py
